@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<phones>
+    <phone manufactor="Firma1">
+        <title>M1</title>
+        <price>111</price>
+    </phone>
+    <phone manufactor="Firma2">
+        <title>M2</title>
+        <price>222</price>
+    </phone>
+    <phone manufactor="Firma3">
+        <title>M3</title>
+        <price>333</price>
+    </phone>
+</phones>

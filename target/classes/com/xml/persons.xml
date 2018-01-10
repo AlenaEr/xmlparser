@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<persons>
+<person>
+    <name>Piter</name>
+    <age>40</age>
+</person>
+<person>
+    <name>Jack</name>
+    <age>35</age>
+</person>
+<person>
+    <name>Boris</name>
+    <age>25</age>
+</person>
+</persons>
