@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2d6a815-7f8c-44b4-b226-385a368ba115" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/mapping/Cat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/mapping/Cats.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/mapping/Order.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/mapping/OrderExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/mapping/OrderImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/mapping/OrderMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/mapping/Orders.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/mapping/Transformer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/mapping/TransformerApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/mapping/TransformerImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xmlsamples/src/main/resources/com/xml/maven-4.0.0.xsd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xmlsamples/src/main/resources/com/xml/order.xsd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/common/Person.class" afterPath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/common/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/common/Phone.class" afterPath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/common/Phone.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/xml/DataParser.class" afterPath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/xml/DataParser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/xml/PersonParser.class" afterPath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/xml/PersonParser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/xml/dom/DataDomParserImpl.class" afterPath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/xml/dom/DataDomParserImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/xml/dom/PersonPareserDomImpl.class" afterPath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/xml/dom/PersonPareserDomImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/xml/sax/DataSaxParserImpl$1.class" afterPath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/xml/sax/DataSaxParserImpl$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/xml/sax/DataSaxParserImpl.class" afterPath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/xml/sax/DataSaxParserImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/xml/sax/PersonParserSaxImpl$1.class" afterPath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/xml/sax/PersonParserSaxImpl$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/xml/sax/PersonParserSaxImpl.class" afterPath="$PROJECT_DIR$/../xmlsamples/target/classes/com/app/xml/sax/PersonParserSaxImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xmlsamples/target/test-classes/com/app/xml/sax/DataParserDomTest.class" afterPath="$PROJECT_DIR$/../xmlsamples/target/test-classes/com/app/xml/sax/DataParserDomTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xmlsamples/target/test-classes/com/app/xml/sax/DataParserSaxTest.class" afterPath="$PROJECT_DIR$/../xmlsamples/target/test-classes/com/app/xml/sax/DataParserSaxTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xmlsamples/target/test-classes/com/app/xml/sax/PersonParserSaxImplTest.class" afterPath="$PROJECT_DIR$/../xmlsamples/target/test-classes/com/app/xml/sax/PersonParserSaxImplTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xmlsamples/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../xmlsamples/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xmlsamples/.idea/misc.xml" afterPath="$PROJECT_DIR$/../xmlsamples/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xmlsamples/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../xmlsamples/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xmlsamples/pom.xml" afterPath="$PROJECT_DIR$/../xmlsamples/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xmlsamples/xmlsamples.iml" afterPath="$PROJECT_DIR$/../xmlsamples/xmlsamples.iml" />
-    </list>
+    <list default="true" id="d2d6a815-7f8c-44b4-b226-385a368ba115" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../xmlsamples/out/" />
     <ignored path="$PROJECT_DIR$/../xmlsamples/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,26 +25,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cats.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/mapping/Cats.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Order.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/mapping/Order.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TransformerApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/mapping/TransformerApp.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -86,7 +35,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrderMain.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OrderMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/mapping/OrderMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -106,18 +55,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrderImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/mapping/OrderImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="XsdMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/xsd/XsdMain.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -133,8 +70,38 @@
       <file leaf-file-name="XsdOperations.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/xsd/XsdOperations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
+            <state relative-caret-position="2">
               <caret line="20" column="47" lean-forward="true" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/resources/com/xml/data.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="maven-4.0.0.xsd" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/resources/com/xml/maven-4.0.0.xsd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order.xsd" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/resources/com/xml/order.xsd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -608,7 +575,7 @@
       <workItem from="1515602417523" duration="11086000" />
       <workItem from="1515690277022" duration="2877000" />
       <workItem from="1515693608974" duration="7104000" />
-      <workItem from="1515782992578" duration="2204000" />
+      <workItem from="1515782992578" duration="2480000" />
     </task>
     <servers />
   </component>
@@ -645,11 +612,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39636000" />
+    <option name="totallyTimeSpent" value="39912000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -659,9 +625,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27124184" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27124184" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4509804" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1633987" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30030257" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -908,14 +874,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/mapping.java" />
-    <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/resources/com/xml/data.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/java/org/Activation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -972,22 +930,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/resources/com/xml/maven-4.0.0.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/resources/com/xml/order.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="37" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="19" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_65/src.zip!/javax/xml/bind/Marshaller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6001">
@@ -1001,29 +943,11 @@
         <state relative-caret-position="85">
           <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
           <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="false" />
+            <element signature="e#174#175#0" expanded="false" />
+            <element signature="e#224#225#0" expanded="false" />
+            <element signature="e#260#261#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/xsd/XsdMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/xsd/XsdOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="20" column="47" lean-forward="true" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1101,6 +1025,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/xsd/XsdMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/java/com/app/xml/xsd/XsdOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="20" column="47" lean-forward="true" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/resources/com/xml/order.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/resources/com/xml/data.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xmlsamples/src/main/resources/com/xml/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
           <folding />
         </state>
       </provider>
